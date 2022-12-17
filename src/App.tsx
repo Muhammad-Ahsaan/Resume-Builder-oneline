@@ -59,7 +59,7 @@ const App = () => {
         <Route path="/contact" element={ <Contact/>} />
         <Route path= "/resume" element={ <Resume />} />
         <Route path= "/preview" element={ <CVImage />} />
-        <Route path="*" element={ <Refimport/> } />
+        
       </Routes>
     </div>
  
