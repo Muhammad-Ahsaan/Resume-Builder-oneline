@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  font-weight: 700;
+  src: local('HKGrotesk'), url(./fonts/hk-grotesk/HKGrotesk-Bold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  font-weight: 400;
+  src: local('HKGrotesk'), url(./fonts/hk-grotesk/HKGrotesk-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  font-weight: 300;
+  src: local('HKGrotesk'), url(./fonts/hk-grotesk/HKGrotesk-Light.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  font-weight: 900;
+  src: local('HKGrotesk'), url(./fonts/hk-grotesk/HKGrotesk-Black.otf) format('opentype');
+}

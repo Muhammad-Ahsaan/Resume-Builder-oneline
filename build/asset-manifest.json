@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.c4407b0a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/family.jpg": "/static/media/family.e843f7002743b8218ed7.jpg",
+    "static/media/checkcv.png": "/static/media/checkcv.1f3ddac7e7177364097c.png",
+    "static/media/banner.png": "/static/media/banner.9c602490312a8a4dc94a.png",
+    "static/media/forbes.png": "/static/media/forbes.59d0e46b7823ede0f4bf.png",
+    "static/media/logoone.png": "/static/media/logoone.bfa7cfb8f8972795640a.png",
+    "static/media/right.png": "/static/media/right.79a0e41ad24e1b1dddea.png",
+    "static/media/logotwo.png": "/static/media/logotwo.5e0e12b5d3a9370d17b1.png",
+    "static/media/lifehacker.png": "/static/media/lifehacker.6c13006b701f3fb9263f.png",
+    "static/media/triangle.jpg": "/static/media/triangle.b796483f11867a11292e.jpg",
+    "static/media/rocket.jpeg": "/static/media/rocket.918b579551a4178fdc94.jpeg",
+    "static/media/search.jpeg": "/static/media/search.164a51b58883e44d7384.jpeg",
+    "static/media/boy.jpeg": "/static/media/boy.41136d478af81c08f73e.jpeg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.c4407b0a.js.map": "/static/js/main.c4407b0a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c4407b0a.js"
+  ]
+}
